@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinicius Rodrigues</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suburbanno&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
+
 - 🔭 I’m currently working on [Glyphs](https://github.com/Suburbanno/Glyphs)
 
 - 🌱 I’m currently learning **Javascript**
@@ -29,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suburbanno&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="suburbanno" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suburbanno&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
