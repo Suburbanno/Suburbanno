@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 My Personal [site](suburbanno.rocks)
+- 👨‍💻 My Personal [site](https://suburbanno.rocks)
 
 - 💬 Ask me about **Life**
 
