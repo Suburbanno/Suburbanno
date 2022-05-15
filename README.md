@@ -7,7 +7,7 @@ const suburbanno = {
     countryCity: "Recife, Brazil",
     graduation: "Analysis and Systems Development in progress",
     tech: ["HTML", "CSS", "Javascript"],
-    askMeAbout: ["Web dev", "Tech", "Logistics"],
+    askMeAbout: ["Web dev", "Tech", "Logistics", "Maps"],
     currentFocus: "Build beautiful and optimized interfaces",
     funFact: "I like maps and in my spare time I make contributions to OpenStreetMap",
     musicGenre: ["Rock", "Darkly Eletronic", "Psytrance", "Indie"],
@@ -15,7 +15,7 @@ const suburbanno = {
         Linkedin: "@Suburbanno",
         Twitter: "@Suburbanizar",
         Telegram: "@Suburbanno",
-        Discord: "Vıηıcıυs#2179",
+        Discord: "V𝔦n𝔦c𝔦us#2179",
     }
 };
 ```
