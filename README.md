@@ -3,7 +3,7 @@
 ```js
 const suburbanno = {
     pronouns: "He" | "Him",
-    age: "23 Years",
+    age: "24 Years",
     countryCity: "Recife, Brazil",
     graduation: "Analysis and Systems Development in progress",
     tech: ["HTML", "CSS", "Javascript"],
