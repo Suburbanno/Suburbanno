@@ -8,7 +8,7 @@ const suburbanno = {
     graduation: "Analysis and Systems Development in progress",
     tech: ["HTML", "CSS", "Javascript"],
     askMeAbout: ["Web dev", "Tech", "Logistics", "Maps"],
-    currentFocus: "Build beautiful and optimized interfaces",
+    currentFocus: "Learning JavaScript",
     funFact: "I like maps and in my spare time I make contributions to OpenStreetMap",
     musicGenre: ["Rock", "Darkly Eletronic", "Psytrance", "Indie"],
     social: {
