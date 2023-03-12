@@ -15,7 +15,7 @@ const suburbanno = {
         Linkedin: "@Suburbanno",
         Twitter: "@Suburbanizar",
         Telegram: "@Suburbanno",
-        Discord: "V𝔦n𝔦c𝔦us#0839",
+        Discord: "Viniciυs#0839",
     }
 };
 ```
