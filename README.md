@@ -3,7 +3,7 @@
 ```js
 const suburbanno = {
     pronouns: "He" | "Him",
-    age: "24 Years",
+    age: "25 Years",
     countryCity: "Recife, Brazil",
     graduation: "Analysis and Systems Development in progress",
     tech: ["HTML", "CSS", "Javascript"],
@@ -13,8 +13,8 @@ const suburbanno = {
     musicGenre: ["Rock", "Darkly Eletronic", "Psytrance", "Indie"],
     social: {
         Linkedin: "@Suburbanno",
-        Twitter: "@Suburbanizar",
-        Telegram: "@Suburbanno",
+        Twitter: "@NoxianSword",
+        Telegram: "@exteraDev",
         Discord: "@run.js",
     }
 };
