@@ -13,9 +13,10 @@ const suburbanno = {
     musicGenre: ["Rock", "Darkly Eletronic", "Psytrance", "Indie"],
     social: {
         Linkedin: "@Suburbanno",
-        Twitter: "@NoxianSword",
+        Twitter: "@exteraDev",
         Telegram: "@exteraDev",
         Discord: "@run.js",
+        Signal: "@exteraDev.01"
     }
 };
 ```
