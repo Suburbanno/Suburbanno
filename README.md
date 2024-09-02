@@ -14,9 +14,13 @@ const suburbanno = {
     social: {
         Linkedin: "@Suburbanno",
         Twitter: "@exteraDev",
+        Bluesky: "@noxian.dev"
         Telegram: "@exteraDev",
         Discord: "@run.js",
-        Signal: "@exteraDev.01"
+        Signal: "@exteraDev.01",
+        Serializd: "@exteraDev",
+        Letterboxd: "@Suburbanno",
+        LastFM: "@suburbanno"
     }
 };
 ```
