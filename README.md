@@ -14,7 +14,7 @@ const suburbanno = {
     social: {
         Linkedin: "@Suburbanno",
         Twitter: "@exteraDev",
-        Bluesky: "@noxian.dev"
+        Bluesky: "@noxian.dev",
         Telegram: "@exteraDev",
         Discord: "@run.js",
         Signal: "@exteraDev.01",
