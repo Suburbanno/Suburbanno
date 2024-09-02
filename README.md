@@ -1,5 +1,4 @@
 # Hi, I'm Vinicius 👋
----
 ```js
 const suburbanno = {
     pronouns: "He" | "Him",
@@ -25,4 +24,4 @@ const suburbanno = {
 };
 ```
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suburbanno&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Suburbanno&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
