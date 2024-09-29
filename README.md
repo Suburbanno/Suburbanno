@@ -5,7 +5,7 @@ suburbanno = {
     "age": "25 Years",
     "countryCity": "Recife, Brazil",
     "graduation": "Analysis and Systems Development",
-    "tech": ["HTML", "CSS", "Javascript"],
+    "tech": ["Python, SQL"],
     "askMeAbout": ["Web dev", "Tech", "Logistics", "Maps"],
     "currentFocus": "Learning Python",
     "funFact": "I like maps and in my spare time I make contributions to OpenStreetMap",
